@@ -1,0 +1,9 @@
+
+{
+  "name": "GoldenHour",
+  "description": "Emergency coordination system for Ambulance, Hospital, and Police.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
