@@ -9,6 +9,12 @@ A real-time system connecting ambulances, hospitals, and police.
 - Injury images sharing
 - AI-generated summaries
 
+## 🚀 Key Features
+- Live patient vitals transmission
+- Real-time hospital preparation
+- Role-based dashboards (EMS, Hospital, Police)
+- AI-generated medical summaries
+  
 ## 🧰 Tech Stack
 React + TypeScript, Supabase, SQL, Gemini API
 
