@@ -1,22 +1,33 @@
 # 🚑 GoldenHour – Real-Time Emergency Coordination Platform
 
-## 💡 Solution
-A real-time system connecting ambulances, hospitals, and police.
+A real-time system that connects ambulances, hospitals, and police to share patient data before arrival, enabling faster emergency response during the Golden Hour.
 
-## 🚀 Features
-- Live patient vitals
-- Real-time hospital preparation
-- Injury images sharing
-- AI-generated summaries
+---
 
 ## 🚀 Key Features
 - Live patient vitals transmission
-- Real-time hospital preparation
+- Real-time hospital preparation before arrival
 - Role-based dashboards (EMS, Hospital, Police)
-- AI-generated medical summaries
-  
+- Injury images and case data sharing
+- AI-generated medical summaries for doctors
+
+---
+
+## 📸 Application Preview
+Login system with role-based access (EMS, Hospital, Police)
+
+![GoldenHour UI](login-ui.png)
+
+---
+
 ## 🧰 Tech Stack
-React + TypeScript, Supabase, SQL, Gemini API
+- Frontend: React + TypeScript + Vite  
+- Backend: Supabase  
+- Database: SQL  
+- Storage: Supabase Storage  
+- AI: Gemini API  
+
+---
 
 ## 👨‍💻 My Role
-Worked on backend development and real-time system logic
+Worked on backend development, implementing real-time data handling and system logic.
